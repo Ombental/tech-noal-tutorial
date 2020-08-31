@@ -1,0 +1,15 @@
+body{
+    background-color: peru; 
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+}
+
+.my-footer{
+    text-align: center;
+    background-color: #2b2b2b;
+    color: #708b99;
+}
