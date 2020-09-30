@@ -54,7 +54,7 @@ def file_output(path: Path, sites_info: List[Dict[str, str]]) -> None:
     with path.open('w') as f:    
         for site in sites_info:
             f.write('*' * 100)
-            f.write(f"\nINFO FOR REQUESTS TO {site['url'].upper()}\nMedian request time: {site['median']} sec\nMean request time:{site['mean']} sec\n\nLog info:\n{site['log']}")
+            f.write(f"\nINFO FOR REQUESTS TO {site['url'].upper()}\nMedian request time: {site['median']} sec\nMean request time:{site['mean']} sec\n\nLog info:\n{site['log']}\n")
 
 
 def prints_to_printer(path: Path) -> None:

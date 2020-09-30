@@ -1,25 +1,28 @@
 ****************************************************************************************************
 INFO FOR REQUESTS TO HTTPS://YNET.CO.IL
-Median request time: 0.434526478 sec
-Mean request time:0.39673030000000153 sec
+Median request time: 0.421637263 sec
+Mean request time:0.4309170999999985 sec
 
 Log info:
-Total Failed Requests: 0****************************************************************************************************
+Total Failed Requests: 0
+****************************************************************************************************
 INFO FOR REQUESTS TO HTTPS://GOOGLE.COM
-Median request time: 1.290457794 sec
-Mean request time:1.2772350000000046 sec
+Median request time: 1.2792541510000002 sec
+Mean request time:1.2524496999999997 sec
 
 Log info:
-Total Failed Requests: 0****************************************************************************************************
+Total Failed Requests: 0
+****************************************************************************************************
 INFO FOR REQUESTS TO HTTPS://CNN.COM
-Median request time: 2.5544375020000003 sec
-Mean request time:2.4876299000000017 sec
+Median request time: 2.7662142559999996 sec
+Mean request time:2.4897186000000033 sec
 
 Log info:
-Total Failed Requests: 0****************************************************************************************************
+Total Failed Requests: 0
+****************************************************************************************************
 INFO FOR REQUESTS TO HTTPS://NOAL.ORG.IL
-Median request time: 1.2842668139999995 sec
-Mean request time:1.163502899999969 sec
+Median request time: 1.4051444909999997 sec
+Mean request time:1.2155809000000772 sec
 
 Log info:
 Total Failed Requests: 0
